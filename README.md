@@ -1,4 +1,4 @@
-# :wave: Hasan Base Theme :wave:
+# :wave: Shopify Base Theme :wave:
 
 ## Pages Discovred
 
