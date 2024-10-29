@@ -5,7 +5,7 @@
 
 ## Lessons covered
 
-Status | Lectures
+Status | Pages
 ------------ | -------------
 :heavy_check_mark: | Installing Development Tools
 :heavy_check_mark: | Navigational Bar
@@ -19,7 +19,6 @@ Status | Lectures
 :heavy_check_mark: | Pages (About & Contact)
 :heavy_check_mark: | Advanced Product Page
 :heavy_check_mark: | Search Page
-:hourglass: | More lessons coming
 
 ## How to use
 
